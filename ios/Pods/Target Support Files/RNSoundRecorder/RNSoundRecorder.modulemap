@@ -1,6 +1,0 @@
-framework module RNSoundRecorder {
-  umbrella header "RNSoundRecorder-umbrella.h"
-
-  export *
-  module * { export * }
-}

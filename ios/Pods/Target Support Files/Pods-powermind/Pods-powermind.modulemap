@@ -1,6 +1,0 @@
-framework module Pods_powermind {
-  umbrella header "Pods-powermind-umbrella.h"
-
-  export *
-  module * { export * }
-}

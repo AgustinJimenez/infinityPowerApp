@@ -1,6 +1,0 @@
-framework module ReactNativeAudioToolkit {
-  umbrella header "ReactNativeAudioToolkit-umbrella.h"
-
-  export *
-  module * { export * }
-}
