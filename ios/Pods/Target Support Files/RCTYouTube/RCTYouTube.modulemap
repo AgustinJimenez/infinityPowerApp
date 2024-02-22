@@ -1,0 +1,6 @@
+framework module RCTYouTube {
+  umbrella header "RCTYouTube-umbrella.h"
+
+  export *
+  module * { export * }
+}
